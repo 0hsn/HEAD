@@ -4,8 +4,6 @@ Code, PR, commit message format, etc convension I follow when I code. Please fol
 
 - [Git branch naming convension](docs/git-branch-naming-convension.md)
 
-- [Commit message types](docs/git-naming-types.md)
-
-- [Commit message format](https://gist.github.com/digitaljhelms/3761873)
+- [Conventional Commits](https://www.conventionalcommits.org/) for commit messages, and [Commit message format](https://gist.github.com/digitaljhelms/3761873) for what to write
 
 - [Linking a PR to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
